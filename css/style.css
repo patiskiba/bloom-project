@@ -1,0 +1,24 @@
+header {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: "Butterfly Kids", cursive;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #26292E;
+    color: white;
+}
+
+.landingSection {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #E7718B;
+    color: white;
+}
+
+.landingSection p {
+    font-size: 1.2rem;
+}
+
+.landingSection button {
+    background-color: #26292E;
+}
