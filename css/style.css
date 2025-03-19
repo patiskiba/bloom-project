@@ -1,5 +1,6 @@
 .headerSection {
-    
+    padding-left: 10%;
+    padding-right: 10%;
     font-family: "Butterfly Kids", cursive;
     font-weight: 500;
     font-style: normal;
@@ -10,7 +11,8 @@
 
 
 .landingSection {
-    
+    padding-left: 10%;
+    padding-right: 10%;
     background-color: #E7718B;
     color: white;
 }
@@ -26,8 +28,15 @@
 }
 
 .infoSection {
+    padding-left: 10%;
+    padding-right: 10%;
     background-color: rgb(243, 243, 243);
     border-bottom: 2px #E7718B solid;
+}
+
+.productSection {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 
